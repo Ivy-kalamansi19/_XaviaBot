@@ -22,8 +22,8 @@
         "100008907121641"
     ],
     "NAME": "Xavia",
-    "PREFIX": "x",
-    "timezone": "Asia/Ho_Chi_Minh",
+    "PREFIX": "",
+    "timezone": "Asia/Manila",
     "REFRESH": "43200000",
     "MAX_BALANCE_LIMIT": "-1"
 }
